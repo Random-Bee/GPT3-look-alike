@@ -2,10 +2,10 @@ import React from 'react'
 import './Navbar.css'
 
 const Navbar = () => {
-  importreturn 
-  (
+  return (
     <div>Navbar</div>
   )
 }
+
 
 export default Navbar
