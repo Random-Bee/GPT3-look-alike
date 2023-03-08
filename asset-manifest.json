@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GPT3-look-alike/static/css/main.f96ae2f8.css",
+    "main.js": "/GPT3-look-alike/static/js/main.9532b799.js",
+    "static/media/ai.png": "/GPT3-look-alike/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/GPT3-look-alike/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/GPT3-look-alike/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/GPT3-look-alike/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/GPT3-look-alike/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/GPT3-look-alike/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/GPT3-look-alike/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/GPT3-look-alike/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/GPT3-look-alike/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/GPT3-look-alike/index.html",
+    "main.f96ae2f8.css.map": "/GPT3-look-alike/static/css/main.f96ae2f8.css.map",
+    "main.9532b799.js.map": "/GPT3-look-alike/static/js/main.9532b799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96ae2f8.css",
+    "static/js/main.9532b799.js"
+  ]
+}
